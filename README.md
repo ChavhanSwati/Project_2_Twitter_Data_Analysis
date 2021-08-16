@@ -5,9 +5,9 @@ by : Swati Chavhan
 
 ## Introduction :
 
-here we make some calculations on top to understand what is happening in the social network. 
+
 Create a spark application that process twitter data.
-This application work with trending data 
+This application work with trending data.
 
 
 ## Technology Used:
